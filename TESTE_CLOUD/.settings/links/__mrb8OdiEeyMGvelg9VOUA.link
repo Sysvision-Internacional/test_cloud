@@ -1,0 +1,214 @@
+{
+  "itemId" : "__mrb8OdiEeyMGvelg9VOUA",
+  "contextList" : [ {
+    "contextName" : "DEV",
+    "repoId" : "_AAHRgOZkEeyqTfEDbEpHhg",
+    "parameterList" : [ {
+      "id" : "_AAmZueZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_AdditionalParams"
+    }, {
+      "id" : "_AAmZvuZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Database"
+    }, {
+      "id" : "_AAmZu-ZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Login"
+    }, {
+      "id" : "_AAmZveZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Password"
+    }, {
+      "id" : "_AAmZuuZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Port"
+    }, {
+      "id" : "_AAmZvOZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Schema"
+    }, {
+      "id" : "_AAmZv-ZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Server"
+    }, {
+      "id" : "_r1hgEuwMEeyKlNDvvdVehw",
+      "name" : "DOLAR"
+    }, {
+      "id" : "_r1hgEewMEeyKlNDvvdVehw",
+      "name" : "BITCON"
+    }, {
+      "id" : "_r1hgEOwMEeyKlNDvvdVehw",
+      "name" : "EURO"
+    }, {
+      "id" : "_r1hgE-wMEeyKlNDvvdVehw",
+      "name" : "LIBRA"
+    }, {
+      "id" : "_6AWQNiiKEe2Am6MVLpuryQ",
+      "name" : "GUARANI_PARAGUAIO"
+    }, {
+      "id" : "_6AWQNCiKEe2Am6MVLpuryQ",
+      "name" : "RUPIA_PAQUISTANESA"
+    }, {
+      "id" : "_6AWQNSiKEe2Am6MVLpuryQ",
+      "name" : "NOVO_SOL_PERUANO"
+    }, {
+      "id" : "_6AWQMSiKEe2Am6MVLpuryQ",
+      "name" : "IENE_JAPONES"
+    }, {
+      "id" : "_6AWQMyiKEe2Am6MVLpuryQ",
+      "name" : "PESO_MEXICANO"
+    }, {
+      "id" : "_6AWQMiiKEe2Am6MVLpuryQ",
+      "name" : "DOLAR_JAMAICANO"
+    }, {
+      "id" : "_6AWQOSiKEe2Am6MVLpuryQ",
+      "name" : "LUANE_CHINES"
+    }, {
+      "id" : "_6AWQOCiKEe2Am6MVLpuryQ",
+      "name" : "DOLAR_CANADIANO"
+    }, {
+      "id" : "_6AWQOiiKEe2Am6MVLpuryQ",
+      "name" : "WON_SUL_COREANO"
+    }, {
+      "id" : "_6AWQMCiKEe2Am6MVLpuryQ",
+      "name" : "PESO_ARGENTINO"
+    }, {
+      "id" : "_6AWQNyiKEe2Am6MVLpuryQ",
+      "name" : "KWANZA_ANGOLANO"
+    } ]
+  }, {
+    "contextName" : "QA",
+    "repoId" : "_AAHRgOZkEeyqTfEDbEpHhg",
+    "parameterList" : [ {
+      "id" : "_AAmZyeZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_AdditionalParams"
+    }, {
+      "id" : "_AAmZzuZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Database"
+    }, {
+      "id" : "_AAmZy-ZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Login"
+    }, {
+      "id" : "_AAmZzeZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Password"
+    }, {
+      "id" : "_AAmZyuZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Port"
+    }, {
+      "id" : "_AAmZzOZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Schema"
+    }, {
+      "id" : "_AAmZz-ZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Server"
+    }, {
+      "id" : "_r1hgFuwMEeyKlNDvvdVehw",
+      "name" : "DOLAR"
+    }, {
+      "id" : "_r1hgFewMEeyKlNDvvdVehw",
+      "name" : "BITCON"
+    }, {
+      "id" : "_r1hgFOwMEeyKlNDvvdVehw",
+      "name" : "EURO"
+    }, {
+      "id" : "_r1hgF-wMEeyKlNDvvdVehw",
+      "name" : "LIBRA"
+    }, {
+      "id" : "_6AWQQSiKEe2Am6MVLpuryQ",
+      "name" : "GUARANI_PARAGUAIO"
+    }, {
+      "id" : "_6AWQPyiKEe2Am6MVLpuryQ",
+      "name" : "RUPIA_PAQUISTANESA"
+    }, {
+      "id" : "_6AWQQCiKEe2Am6MVLpuryQ",
+      "name" : "NOVO_SOL_PERUANO"
+    }, {
+      "id" : "_6AWQPCiKEe2Am6MVLpuryQ",
+      "name" : "IENE_JAPONES"
+    }, {
+      "id" : "_6AWQPiiKEe2Am6MVLpuryQ",
+      "name" : "PESO_MEXICANO"
+    }, {
+      "id" : "_6AWQPSiKEe2Am6MVLpuryQ",
+      "name" : "DOLAR_JAMAICANO"
+    }, {
+      "id" : "_6AWQRCiKEe2Am6MVLpuryQ",
+      "name" : "LUANE_CHINES"
+    }, {
+      "id" : "_6AWQQyiKEe2Am6MVLpuryQ",
+      "name" : "DOLAR_CANADIANO"
+    }, {
+      "id" : "_6AWQRSiKEe2Am6MVLpuryQ",
+      "name" : "WON_SUL_COREANO"
+    }, {
+      "id" : "_6AWQOyiKEe2Am6MVLpuryQ",
+      "name" : "PESO_ARGENTINO"
+    }, {
+      "id" : "_6AWQQiiKEe2Am6MVLpuryQ",
+      "name" : "KWANZA_ANGOLANO"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_AAHRgOZkEeyqTfEDbEpHhg",
+    "parameterList" : [ {
+      "id" : "_AAmZweZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_AdditionalParams"
+    }, {
+      "id" : "_AAmZxuZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Database"
+    }, {
+      "id" : "_AAmZw-ZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Login"
+    }, {
+      "id" : "_AAmZxeZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Password"
+    }, {
+      "id" : "_AAmZwuZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Port"
+    }, {
+      "id" : "_AAmZxOZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Schema"
+    }, {
+      "id" : "_AAmZx-ZkEeyqTfEDbEpHhg",
+      "name" : "Conexao_Sysvision_Server"
+    }, {
+      "id" : "_r1iHIuwMEeyKlNDvvdVehw",
+      "name" : "DOLAR"
+    }, {
+      "id" : "_r1iHIewMEeyKlNDvvdVehw",
+      "name" : "BITCON"
+    }, {
+      "id" : "_r1iHIOwMEeyKlNDvvdVehw",
+      "name" : "EURO"
+    }, {
+      "id" : "_r1iHI-wMEeyKlNDvvdVehw",
+      "name" : "LIBRA"
+    }, {
+      "id" : "_6AW3RiiKEe2Am6MVLpuryQ",
+      "name" : "GUARANI_PARAGUAIO"
+    }, {
+      "id" : "_6AW3RCiKEe2Am6MVLpuryQ",
+      "name" : "RUPIA_PAQUISTANESA"
+    }, {
+      "id" : "_6AW3RSiKEe2Am6MVLpuryQ",
+      "name" : "NOVO_SOL_PERUANO"
+    }, {
+      "id" : "_6AW3QSiKEe2Am6MVLpuryQ",
+      "name" : "IENE_JAPONES"
+    }, {
+      "id" : "_6AW3QyiKEe2Am6MVLpuryQ",
+      "name" : "PESO_MEXICANO"
+    }, {
+      "id" : "_6AW3QiiKEe2Am6MVLpuryQ",
+      "name" : "DOLAR_JAMAICANO"
+    }, {
+      "id" : "_6AW3SSiKEe2Am6MVLpuryQ",
+      "name" : "LUANE_CHINES"
+    }, {
+      "id" : "_6AW3SCiKEe2Am6MVLpuryQ",
+      "name" : "DOLAR_CANADIANO"
+    }, {
+      "id" : "_6AW3SiiKEe2Am6MVLpuryQ",
+      "name" : "WON_SUL_COREANO"
+    }, {
+      "id" : "_6AW3QCiKEe2Am6MVLpuryQ",
+      "name" : "PESO_ARGENTINO"
+    }, {
+      "id" : "_6AW3RyiKEe2Am6MVLpuryQ",
+      "name" : "KWANZA_ANGOLANO"
+    } ]
+  } ]
+}
